@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="49" started-at="2021-07-10T05:51:27 UTC" finished-at="2021-07-10T05:51:27 UTC">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="49" started-at="2021-07-10T05:51:27 UTC" finished-at="2021-07-10T05:51:27 UTC">
+      <class name="tdd.PrimenumTest">
+        <test-method status="PASS" signature="negativeTest()[pri:0, instance:tdd.PrimenumTest@ea1a8d5]" name="negativeTest" duration-ms="10" started-at="2021-07-10T05:51:27 UTC" finished-at="2021-07-10T05:51:27 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- negativeTest -->
+        <test-method status="PASS" signature="positiveTest()[pri:0, instance:tdd.PrimenumTest@ea1a8d5]" name="positiveTest" duration-ms="1" started-at="2021-07-10T05:51:27 UTC" finished-at="2021-07-10T05:51:27 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- positiveTest -->
+      </class> <!-- tdd.PrimenumTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
